@@ -10,3 +10,5 @@ git clone github项目仓库克隆地址
 写完代码
 git status 查看本地仓库的状态
 红色文件表示更改的文件
+git add . 添加到暂存区
+
